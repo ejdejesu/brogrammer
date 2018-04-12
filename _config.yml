@@ -17,7 +17,7 @@ title: Brogrammer
 email: evanjdejesus@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog that will hopefully end up being good and having photos and stuff.
-baseurl: "brogrammer" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ejdejesu
 instagram_username: e_jesus42

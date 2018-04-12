@@ -1,2 +1,0 @@
-# Website
-brogrammer.online blog

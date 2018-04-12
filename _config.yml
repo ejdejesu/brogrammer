@@ -18,8 +18,8 @@ email: evanjdejesus@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog that will hopefully eventually look better and have photos and stuff.
 # PICK ONE
-baseurl: "brogrammer" # For production
-#baseurl: "" # For testing
+#baseurl: "brogrammer" # For production
+baseurl: "" # For testing
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ejdejesu

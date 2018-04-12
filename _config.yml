@@ -16,7 +16,7 @@
 title: Brogrammer Blog
 email: evanjdejesus@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my blog that will hopefully eventually look better and have photos and stuff.
+  This is my blog that will eventually look better and have photos and stuff.
 # PICK ONE
 baseurl: "brogrammer" # For production
 #baseurl: "" # For testing
